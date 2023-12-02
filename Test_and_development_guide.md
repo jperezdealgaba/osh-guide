@@ -7,6 +7,7 @@
  **Before commit**
  - Did you rebase the code?
  -  Is the code commented?
+ -  Have you reviewed the logs of the execution?
  
 **Tests**
 
