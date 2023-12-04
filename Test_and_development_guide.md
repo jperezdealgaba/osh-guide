@@ -12,7 +12,8 @@
 **Tests**
 
 - Are all tests passing?
-- Are all lines perfoming the intended function? 
+- Are all lines perfoming the intended function?
+- For all exceptions added, did we test raising them to make sure they exception handling work as expected?
 
 **Styling**
 - Do the code stick to the styling guide?
