@@ -6,8 +6,8 @@
 
  **Before commit**
  - Did you rebase the code?
- -  Is the code commented?
- -  Have you reviewed the logs of the execution?
+ - Is the code commented?
+ - Have you reviewed the logs of the execution?
  
 **Tests**
 
@@ -16,7 +16,7 @@
 - For all exceptions added, did we test raising them to make sure the exception handling work as expected?
 
 **Styling**
-- Do the code stick to the styling guide?
+- Does the code stick to the styling guide?
 
   
 
@@ -34,11 +34,9 @@
 
 **Are you adding a new plugin?**
 
-- Do cspodman and csmock share the same argument name?
+- Do cspodman and csmock share the same plugin name?
 - Do cspodman and csmock share the same description name?
-- Should the argument enable the plugin by itself?
 
-  
 
 **Are you adding a new argument to a plugin?**
 
